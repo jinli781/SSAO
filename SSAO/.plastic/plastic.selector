@@ -1,0 +1,4 @@
+repository "SSAO@ssl://chickenbilibili@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
