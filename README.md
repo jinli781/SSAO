@@ -4,7 +4,7 @@
 
 #### AO采样结果
 
-![img](file:///C:\Users\Administrator\Documents\Tencent Files\2432706638\Image\C2C\GH9T`I58MMJIL}7L{UPCH{S.png)
+![](F:\pics\QQ图片20231204140451.png)
 
 #### 双边滤波处理
 
