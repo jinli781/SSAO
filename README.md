@@ -4,17 +4,17 @@
 
 #### AO采样结果
 
-![](F:\pics\QQ图片20231204140451.png)
+![](./pics/ao.png)
 
 #### 双边滤波处理
 
-![](F:\pics\QQ图片20231204135740.png)
+![](./pics/filter.png)
 
 #### 最终结果
 
-![](F:\pics\QQ图片20231204135808.png)
+![](./pics/final.png)
 
 #### 原图
 
-![](F:\pics\QQ图片20231204135833.png)
+![](./pics/ao disable.png)
 
