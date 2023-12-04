@@ -16,5 +16,5 @@
 
 #### 原图
 
-![](./pics/ao disable.png)
+![](./pics/disable.png)
 
