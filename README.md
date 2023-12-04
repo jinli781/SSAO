@@ -1,6 +1,8 @@
 # SSAO
 
-本项目的Shader共有两个，SSAO负责采样，BilateralBlur负责对采样结果进行双边滤波，使用双边滤波的好处是可以清晰的保留阴影的轮廓边缘
+本项目的Shader共有两个，SSAO负责采样，BilateralBlur负责对采样结果进行双边滤波，使用双边滤波的好处是可以清晰的保留阴影的轮廓边缘。
+
+ssao组件需挂载到camera下，另外需要注意的是要将camera的rendering path改为deferred
 
 #### AO采样结果
 
